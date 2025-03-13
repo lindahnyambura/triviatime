@@ -1,4 +1,3 @@
-Absolutely, here’s a sample README for your Trivia app:
 
 # Trivia Time App
 
